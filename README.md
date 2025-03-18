@@ -9,8 +9,7 @@
     - ##### [1aa - `ErrChecker` struct](#errchecker-struct)
     - ##### [1ab - `CheckErr` function](#checkerr-function-errchecker-struct)
 - #### [1b - `types`](#types)
-### [2 - Usage](#usage)
-### [3 - Full Reference](#full-reference)
+### [2 - Testing](#testing)
 
 ## Included Packages
 ### Errors
